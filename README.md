@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alejandra-garcias
 - 👀 I’m interested in travelling, cooking and reading
-- 🌱 I’m currently learning FastApi
+- 🌱 I’m currently learning Odoo
 - 💞️ I’m looking to collaborate on anything that sounds interesting!
 - 📫 How to reach me message me on my linkedin
 
